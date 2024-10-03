@@ -1,2 +1,3 @@
 # Projeto-JavaScript
-Repositório de um projeto em JavaScript da disciplina de algoritmos
+
+### Esse repositório apresenta um projeto em JavaScript de um gerenciador de tarefas da disciplina de algoritmos do curso de Análise e Desenvolvimento de Sistemas
